@@ -17,3 +17,6 @@ README.md
 ### Credits
 Source: https://github.com/udacity/pdsnd_github
 
+### Project owner
+Denis Aleev
+
