@@ -2,6 +2,11 @@
 Project owner: Denis Aleev
 Requested by: Udacity
 """
+
+"""
+Ultra optimizer
+"""
+
 import time
 import pandas as pd
 import numpy as np
