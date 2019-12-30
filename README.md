@@ -20,3 +20,7 @@ Source: https://github.com/udacity/pdsnd_github
 ### Project owner
 Denis Aleev
 
+### Project team
+John Doe
+Dohn Joe
+
