@@ -1,3 +1,7 @@
+"""
+Project owner: Denis Aleev
+Requested by: Udacity
+"""
 import time
 import pandas as pd
 import numpy as np
