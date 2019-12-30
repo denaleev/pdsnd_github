@@ -2,7 +2,7 @@
 30/12/2019
 
 ### Project Title
-Udacity git project
+Udacity git project title
 
 ### Description
 Project on exploring the US bikeshare data
@@ -23,4 +23,3 @@ Denis Aleev
 ### Project team
 John Doe
 Dohn Joe
-
